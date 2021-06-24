@@ -19,6 +19,7 @@
   </a>
   
   ![supunmadurangasl GitHub Status](https://github-readme-stats.vercel.app/api?username=supunmadurangasl&theme=dark&show_icons=true)
+  
 - ![Profile views](https://gpvc.arturio.devhttps://github.com/supunmadurangasl/)
 - 
 - [![GitHub followers](https://img.shields.io/github/followers/youtubeslgeekshow.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/youtubeslgeekshow?tab=followers)
