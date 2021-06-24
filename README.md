@@ -17,8 +17,7 @@
 <a href="https://github.com/youtubeslgeekshow/handle-path-oz">
     <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=youtubeslgeekshow=true&theme=midnight-purple" />
   </a>
-
-- [![Profile views](https://gpvc.arturio.dev/youtubeslgeekshow)](https://gpvc.arturio.dev/youtubeslgeekshow)
+  
 - [![GitHub followers](https://img.shields.io/github/followers/youtubeslgeekshow.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/youtubeslgeekshow?tab=followers)
 - [![Youtubestats](https://img.shields.io/badge/YouTube%20Subscribers-ff0000?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=youtube)](https://socialblade.com/youtube/channel/UCvYfJcTr8RY72dIapzMqFQA/realtime)
 - [![Facebooklikes](https://img.shields.io/badge/Facebook%20Likes-2533cf?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=facebook)](https://socialblade.com/facebook/page/SL-Geek-Show-yt-103654258471929)
