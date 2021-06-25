@@ -21,7 +21,7 @@
     <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=youtubeslgeekshow=true&theme=midnight-purple" />
   </a>
   
-  ![supunmadurangasl GitHub Status](https://github-readme-stats.vercel.app/api?username=supunmadurangasl&theme=dark&show_icons=true)
+<img src="https://camo.githubusercontent.com/aa893ebf730c92458e80b121b2c0c86ddfa36acc6ec990a3fedaf32ad6d1f0c9/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d67617574616d616a6179353226636f756e745f707269766174653d74727565267468656d653d68696768636f6e74726173742673686f775f69636f6e733d74727565" alt="sl geek show stats " data-canonical-src="https://github-readme-stats.vercel.app/api?username=youtubeslgeekshow&amp;count_private=true&amp;theme=highcontrast&amp;show_icons=true" style="max-width:100%;">
   
 
 - 
