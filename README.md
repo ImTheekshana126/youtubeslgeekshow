@@ -17,10 +17,7 @@
 # MY SOCIAL MEDIA STATICS <img src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f10799d0d3ff5ecac394b4ee8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966" width="50px">
 
 
-<a href="https://github.com/youtubeslgeekshow/handle-path-oz">
-    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=youtubeslgeekshow=true&theme=midnight-purple" />
-  </a>
-<img title="youtubeslgeekshow" src="https://camo.githubusercontent.com/6222ad8c0e88460ec06db2e6358ef05251fec4281fa8cf057c380e6ca034684b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d7269786f6e2d636f6368692673686f775f69636f6e733d7472756526696e636c7564655f616c6c5f636f6d6d6974733d74727565267468656d653d636861727472657573652d6461726b2663616368655f7365636f6e64733d33323030" data-canonical-src="https://github-readme-stats.vercel.app/api?username=rixon-
+<img alt="404 “This is not the web page you are looking for”" class="js-plaxify position-absolute" data-xrange="20" data-yrange="10" height="249" width="271" style="z-index: 10; top: 72px; left: 72px; transform: translate3d(9.95575px, -4.58493px, 0px);" 
   
 
 
