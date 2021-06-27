@@ -20,10 +20,10 @@
 <a href="https://github.com/youtubeslgeekshow/handle-path-oz">
     <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=youtubeslgeekshow=true&theme=midnight-purple" />
   </a>
-
+<img title="youtubeslgeekshow" src="https://camo.githubusercontent.com/6222ad8c0e88460ec06db2e6358ef05251fec4281fa8cf057c380e6ca034684b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d7269786f6e2d636f6368692673686f775f69636f6e733d7472756526696e636c7564655f616c6c5f636f6d6d6974733d74727565267468656d653d636861727472657573652d6461726b2663616368655f7365636f6e64733d33323030" data-canonical-src="https://github-readme-stats.vercel.app/api?username=rixon-
   
 
-- 
+
 - [![GitHub followers](https://img.shields.io/github/followers/youtubeslgeekshow.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/youtubeslgeekshow?tab=followers)
 - 
 - [![Youtubestats](https://img.shields.io/badge/YouTube%20Subscribers-ff0000?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=youtube)](https://socialblade.com/youtube/channel/UCvYfJcTr8RY72dIapzMqFQA/realtime)
@@ -71,7 +71,6 @@
 <a href="https://www.youtube.com/channel/UCvYfJcTr8RY72dIapzMqFQA" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-256.png" height="40" width="40" /></a> &nbsp;&nbsp;
     
 ###    You can get any github bot repositories you want with this. Continue to follow me. Watch youtube video   
-
 
 
 
