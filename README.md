@@ -21,7 +21,7 @@
 - [![Youtubestats](https://img.shields.io/badge/YouTube%20Subscribers-ff0000?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=youtube)](https://socialblade.com/youtube/channel/UCvYfJcTr8RY72dIapzMqFQA/realtime)
 - [![Facebooklikes](https://img.shields.io/badge/Facebook%20Likes-2533cf?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=facebook)](https://socialblade.com/facebook/page/SL-Geek-Show-yt-103654258471929)
 - [![Intagramfollowers](https://img.shields.io/badge/Instagram%20Followers-4d267a?style=style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=instagram)](https://socialblade.com/instagram/user/sl_geek_show)
-- 
+
 
 👨‍💻   🚶‍ &nbsp; I live in : Sri Lanka 🇱🇰  <br>
 👨‍💻  🔭 I’m currently working on : sl geek show 😋 Corporation  <br>
