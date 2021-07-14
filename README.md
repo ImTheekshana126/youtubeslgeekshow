@@ -10,7 +10,7 @@
 
 <img src="https://github.com/rixon-cochi/rixon-cochi/raw/main/IMG/Hack-This-SIte-Basic-9-ngr-5QXatUvRfM.gif" style="max-width:100%;">
 
-
+[![Code Palace](https://img.shields.io/youtube/channel/subscribers/UCvYfJcTr8RY72dIapzMqFQA?label=sl geek show %20Bro&style=social)](https://www.youtube.com/channel/UCvYfJcTr8RY72dIapzMqFQA)
 
 
 
