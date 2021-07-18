@@ -12,7 +12,7 @@
 
 [![Github](https://img.shields.io/badge/Github-000000?style=style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=github)](https://github.com/youtubeslgeekshow) 
 
-<img src="https://github.com/rixon-cochi/rixon-cochi/raw/main/IMG/Hack-This-SIte-Basic-9-ngr-5QXatUvRfM.gif" style="max-width:75%;">
+<img src="https://github.com/rixon-cochi/rixon-cochi/raw/main/IMG/Hack-This-SIte-Basic-9-ngr-5QXatUvRfM.gif" style="max-width:50%;">
 
 
 
