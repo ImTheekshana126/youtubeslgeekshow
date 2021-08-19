@@ -30,7 +30,7 @@
 # MY SOCIAL MEDIA STATICS 👋 
 
 - [![GitHub followers](https://img.shields.io/github/followers/youtubeslgeekshow.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/youtubeslgeekshow?tab=followers)
--[![Code Palace](https://img.shields.io/youtube/channel/subscribers/UCBNsVUq2MLyxDSe62ljjWdQ?label=slgeekshow%20show&style=social)](https://www.youtube.com/c/SLGeeKShows/videos)
+-[![Code Palace](https://img.shields.io/youtube/channel/subscribers/UCvYfJcTr8RY72dIapzMqFQA?label=slgeekshow%20show&style=social)](https://www.youtube.com/c/SLGeeKShows/videos)
 - [![Facebooklikes](https://img.shields.io/badge/Facebook%20Likes-2533cf?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=facebook)](https://socialblade.com/facebook/page/SL-Geek-Show-yt-103654258471929)
 - [![Intagramfollowers](https://img.shields.io/badge/Instagram%20Followers-4d267a?style=style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=instagram)](https://socialblade.com/instagram/user/sl_geek_show)
 
