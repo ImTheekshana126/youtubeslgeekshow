@@ -20,13 +20,6 @@
 
 
 
-<img src="https://github.com/rixon-cochi/rixon-cochi/raw/main/IMG/Hack-This-SIte-Basic-9-ngr-5QXatUvRfM.gif" style ="max-width:10%;">
-
-
-
-
-
-
 # MY SOCIAL MEDIA STATICS 👋 
 
 - [![GitHub followers](https://img.shields.io/github/followers/youtubeslgeekshow.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/youtubeslgeekshow?tab=followers)
