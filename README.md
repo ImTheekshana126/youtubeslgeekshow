@@ -1,4 +1,4 @@
-###                                    මන් ගැන පොඩි  සටහනක් about me 
+###                                     about me 
 # Hey i'am supun maduranga  
 <img align="left" src="https://github.com/RazorKenway/RazorKenway/raw/main/Developer.gif" style="max-width:100%;">
 
