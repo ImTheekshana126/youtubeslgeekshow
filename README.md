@@ -9,17 +9,6 @@
 
  ![Profile views](https://gpvc.arturio.dev/youtubeslgeekshow)
 
-
-| **Platform** |  **Follow now**   |
-|------------|---------------------|
-|   Youtube   | [![Youtube](https://img.shields.io/badge/YouTube%20Channel-ff0000?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCvYfJcTr8RY72dIapzMqFQA?sub_confirmation=1)&nbsp; |
-|  Telegram    | [![Telegram](https://img.shields.io/badge/slbotzone%20Team-003245?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=telegram)](https://t.me/slbotzone)&nbsp;|
-|  Facebook  | [![Facebook](https://img.shields.io/badge/Follow%20me%20on%20Facebook-2533cf?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=facebook)](https://www.facebook.com/SL-Geek-Show-yt-103654258471929/)&nbsp;|
-|  Intagram | [![Intagram](https://img.shields.io/badge/Follow%20me%20on%20Instagram-4d267a?style=style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=instagram)](https://www.instagram.com/sl_geek_show/)&nbsp; |
-| Github | [![Github](https://img.shields.io/badge/Github-000000?style=style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=github)](https://github.com/youtubeslgeekshow) |
-
-
-
 # MY SOCIAL MEDIA STATICS 👋 
 
 - [![GitHub followers](https://img.shields.io/github/followers/youtubeslgeekshow.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/youtubeslgeekshow?tab=followers)
@@ -29,7 +18,34 @@
 - [![Facebooklikes](https://img.shields.io/badge/Facebook%20Likes-2533cf?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=facebook)](https://socialblade.com/facebook/page/SL-Geek-Show-yt-103654258471929)
  
 - [![Intagramfollowers](https://img.shields.io/badge/Instagram%20Followers-4d267a?style=style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=instagram)](https://socialblade.com/instagram/user/sl_geek_show)
+ 
+ 
+| **Platform** |  **Follow now**   |
+|------------|---------------------|
+|   Youtube   | [![Youtube](https://img.shields.io/badge/YouTube%20Channel-ff0000?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCvYfJcTr8RY72dIapzMqFQA?sub_confirmation=1)&nbsp; |
+|  Telegram    | [![Telegram](https://img.shields.io/badge/slbotzone%20Team-003245?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=telegram)](https://t.me/slbotzone)&nbsp;|
+|  Facebook  | [![Facebook](https://img.shields.io/badge/Follow%20me%20on%20Facebook-2533cf?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=facebook)](https://www.facebook.com/SL-Geek-Show-yt-103654258471929/)&nbsp;|
+|  Intagram | [![Intagram](https://img.shields.io/badge/Follow%20me%20on%20Instagram-4d267a?style=style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=instagram)](https://www.instagram.com/sl_geek_show/)&nbsp; |
+| Github | [![Github](https://img.shields.io/badge/Github-000000?style=style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=github)](https://github.com/youtubeslgeekshow) |
+ 
+# MY TOOLS AND LANG
 
+|  LANG  |  ICON   |
+|------------|-----------|
+| PYTHON  | <a href="#"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>|
+|  HTML |<a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a> |
+| CSS  | <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a> |
+ 
+ 
+| HOSTING  |  ICON  |
+|-------------|------------|
+| MAIN HEROKU  |<a href="#"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></a>|
+| Microsoft_Azure | <a href="#"><img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a> |
+
+<h1><details>
+  <summary><b>Don't Open this path </b></summary>
+  <p><a href="https://www.youtube.com/channel/UCvYfJcTr8RY72dIapzMqFQA" title="How to create Bot useing python ">How to create Bot useing python</a>
+ </details></h1>
  
   🚶‍ &nbsp; I live in : Sri Lanka 🇱🇰  <br>
   🔭 I’m currently working on : sl geek show 😋 Corporation  <br>
@@ -38,20 +54,4 @@
   🤔 I’m looking for help : For  Me  <br>
   ⚡ Fun fact: I'm just an ![age](https://img.shields.io/badge/Age-17-pink) Teen 😄
   📫 How to reach me : ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue)
-  
-
-# MY TOOLS AND LANG
-
-| ** LANG ** | ** ICON    ** |
-|------------|-----------|
-| PYTHON  | <a href="#"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>|
-|  HTML |<a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a> |
-| CSS  | <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a> |
- 
- 
-| ** HOSTING ** | ** ICON ** |
-|-------------|------------|
-| MAIN HEROKU  |<a href="#"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></a>|
-| Microsoft_Azure | <a href="#"><img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a> |
-
 
