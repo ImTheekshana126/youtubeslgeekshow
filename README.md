@@ -49,9 +49,9 @@
  
   🚶‍ &nbsp; I live in : Sri Lanka 🇱🇰  <br>
   🔭 I’m currently working on : sl geek show 😋 Corporation  <br>
-  📚 I went to :  ananda shasthralaya mathugama national school <br>
+  📚 I went to : <b> ananda shasthralaya mathugama national school <b> <br>
   👯 I’m looking to collaborate : ![github](https://img.shields.io/badge/On-Github-black)  <br>
   🤔 I’m looking for help : For  Me  <br>
-  ⚡ Fun fact: I'm just an ![age](https://img.shields.io/badge/Age-17-pink) Teen 😄
+  ⚡ Fun fact: I'm just an ![age](https://img.shields.io/badge/Age-17-blue) Teen 
   📫 How to reach me : ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue)
 
