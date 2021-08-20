@@ -3,7 +3,6 @@
 
 <img align="senter" src="https://github.com/RazorKenway/RazorKenway/raw/main/Developer.gif" style="max-width:50%;">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=youtubeslgeekshow" alt="youtubeslgeekshow" /></a> </p>
 
 ![Youtbeslgeekshow GitHub Status](https://github-readme-stats.vercel.app/api?username=youtubeslgeekshow&theme=dark&show_icons=true)
 
@@ -54,4 +53,8 @@
   🤔 I’m looking for help : For  Me  <br>
   ⚡ Fun fact: I'm just an ![age](https://img.shields.io/badge/Age-17-blue) Teen 
   📫 How to reach me : ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue)
+ 
+ 
+ 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=youtubeslgeekshow" alt="youtubeslgeekshow" /></a> </p>
 
