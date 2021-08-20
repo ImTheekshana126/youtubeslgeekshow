@@ -10,7 +10,7 @@
  
  ![Profile views](https://gpvc.arturio.dev/youtubeslgeekshow)
  
- <h2>[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&lines=-%3E+Github+student;-%3E+Deploy+some+bots;-%3EYoutuber;-%3E+python+learner;-%3E+Html+user)](https://git.io/typing-svg)</h2>
+ <h2>[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&lines=-%3E+Github+student;-%3E+Deploy+some+bots; -%3EYoutuber;-%3E+python+learner;-%3E+Html+user)](https://git.io/typing-svg)</h2>
 
 # MY SOCIAL MEDIA STATICS 👋 
 
