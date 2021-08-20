@@ -9,6 +9,8 @@
 <img align="senter" src="https://github.com/RazorKenway/RazorKenway/raw/main/Developer.gif" style="max-width:50%;">
  
  ![Profile views](https://gpvc.arturio.dev/youtubeslgeekshow)
+ 
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&lines=-%3E+Github student;-%3E+Deploy some bots;-%3E+Friend;-%3EYoutuber;-%3E+python learner;-%3E+Html user)](https://git.io/typing-svg)
 
 # MY SOCIAL MEDIA STATICS 👋 
 
