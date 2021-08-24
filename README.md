@@ -13,6 +13,11 @@
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&lines=-%3E+Deploy+some+bots;-%3E+Github+student;-%3E+Codes+learner;-%3EYoutuber;-%3E+AL+student;-%3E+Html+user)](https://git.io/typing-svg)
  
+ <h5><details>
+  <summary><b>My github stats</b></summary>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=youtubeslgeekshow" alt="youtubeslgeekshow" /></a> </p>
+ </details></h5>
+ 
 # MY SOCIAL MEDIA STATICS 👋 
 
 - [![GitHub followers](https://img.shields.io/github/followers/youtubeslgeekshow.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/youtubeslgeekshow?tab=followers)
@@ -62,7 +67,4 @@
  
  
  
-<h5><details>
-  <summary><b>My github stats</b></summary>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=youtubeslgeekshow" alt="youtubeslgeekshow" /></a> </p>
- </details></h5>
+
