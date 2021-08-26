@@ -31,7 +31,7 @@
 - [![Intagramfollowers](https://img.shields.io/badge/Instagram%20Followers-4d267a?style=style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=instagram)](https://socialblade.com/instagram/user/sl_geek_show)
  
  
- <details>
+<h2> <details>
   <summary><b>MY SOCIAL MEDIA</b></summary>
   
 | **Platform** |  **Follow now**   |
@@ -42,7 +42,7 @@
 |  Intagram | [![Intagram](https://img.shields.io/badge/Follow%20me%20on%20Instagram-4d267a?style=style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=instagram)](https://www.instagram.com/sl_geek_show/)&nbsp; |
 | Github | [![Github](https://img.shields.io/badge/Github-000000?style=style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=github)](https://github.com/youtubeslgeekshow) |
   
-  </details>
+ </details> </h2>
  
  
  
