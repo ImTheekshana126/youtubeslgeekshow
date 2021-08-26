@@ -13,25 +13,8 @@
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&lines=-%3E+Deploy+some+bots;-%3E+Github+student;-%3E+Codes+learner;-%3EYoutuber;-%3E+AL+student;-%3E+Html+user)](https://git.io/typing-svg)
  
- <h5><details>
-  <summary><b>My github stats</b></summary>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=youtubeslgeekshow" alt="youtubeslgeekshow" /></a> </p>
- </details></h5>
-
  
- 
-# MY SOCIAL MEDIA STATICS 👋 
-
-- [![GitHub followers](https://img.shields.io/github/followers/youtubeslgeekshow.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/youtubeslgeekshow?tab=followers)
- 
-- [![Code Palace](https://img.shields.io/youtube/channel/subscribers/UCvYfJcTr8RY72dIapzMqFQA?label=slgeekshow%20show&style=social)](https://www.youtube.com/c/SLGeeKShows/videos)
- 
-- [![Facebooklikes](https://img.shields.io/badge/Facebook%20Likes-2533cf?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=facebook)](https://socialblade.com/facebook/page/SL-Geek-Show-yt-103654258471929)
- 
-- [![Intagramfollowers](https://img.shields.io/badge/Instagram%20Followers-4d267a?style=style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=instagram)](https://socialblade.com/instagram/user/sl_geek_show)
- 
- 
-<h2> <details>
+ <h2> <details>
   <summary><b>MY SOCIAL MEDIA</b></summary>
   
 | **Platform** |  **Follow now**   |
@@ -45,6 +28,23 @@
  </details> </h2>
  
  
+ <h2><details>
+  <summary><b>My github stats</b></summary>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=youtubeslgeekshow" alt="youtubeslgeekshow" /></a> </p>
+ </details></h2>
+
+ 
+ 
+# MY SOCIAL MEDIA STATICS 👋 
+
+- [![GitHub followers](https://img.shields.io/github/followers/youtubeslgeekshow.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/youtubeslgeekshow?tab=followers)
+ 
+- [![Code Palace](https://img.shields.io/youtube/channel/subscribers/UCvYfJcTr8RY72dIapzMqFQA?label=slgeekshow%20show&style=social)](https://www.youtube.com/c/SLGeeKShows/videos)
+ 
+- [![Facebooklikes](https://img.shields.io/badge/Facebook%20Likes-2533cf?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=facebook)](https://socialblade.com/facebook/page/SL-Geek-Show-yt-103654258471929)
+ 
+- [![Intagramfollowers](https://img.shields.io/badge/Instagram%20Followers-4d267a?style=style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=instagram)](https://socialblade.com/instagram/user/sl_geek_show)
+  
  
 # MY TOOLS AND LANG
 
