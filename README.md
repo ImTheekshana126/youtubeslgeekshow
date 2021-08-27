@@ -14,6 +14,9 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&lines=-%3E+Deploy+some+bots;-%3E+Github+student;-%3E+Codes+learner;-%3EYoutuber;-%3E+AL+student;-%3E+Html+user)](https://git.io/typing-svg)
  
  
+ [![](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)](#)
+ 
+ 
  <h2> <details>
   <summary><b>MY SOCIAL MEDIA</b></summary>
   
