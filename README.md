@@ -1,10 +1,6 @@
 
 <h1 align="center">Hey i'am supun maduranga <img src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f10799d0d3ff5ecac394b4ee8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966" width="50px">
 
-
-
-
-![Youtbeslgeekshow GitHub Status](https://github-readme-stats.vercel.app/api?username=youtubeslgeekshow&theme=dark&show_icons=true)
  
 <img align="senter" src="https://github.com/RazorKenway/RazorKenway/raw/main/Developer.gif" style="max-width:50%;">
  
@@ -35,6 +31,9 @@
   <summary><b>My github stats</b></summary>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=youtubeslgeekshow" alt="youtubeslgeekshow" /></a> </p>
  </details></h2>
+ 
+## Repo Stats
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=youtubeslgeekshow&repo=Video-call-bot&theme=dark)
 
  
  
@@ -77,6 +76,9 @@
  
   📫 How to reach me : ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue)
  
+ ## 🏆 GitHub Activity
+
+![Metrics](https://metrics.lecoq.io/youtubeslgeekshow?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FSemarang)
  
  
 
