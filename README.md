@@ -40,7 +40,8 @@
  
 # MY SOCIAL MEDIA STATICS 👋 
 
-- [![GitHub followers](https://img.shields.io/github/followers/youtubeslgeekshow.svg?style=social&label=Follow&maxAge=2592000)(https://github.com/youtubeslgeekshow?tab=followers)
+- [![GitHub followers](https://img.shields.io/github/followers/youtubeslgeekshow.svg?style=social&label=Follow&maxAge=2592000) 
+ (https://github.com/youtubeslgeekshow?tab=followers) 
  
 - [![Code Palace](https://img.shields.io/youtube/channel/subscribers/UCvYfJcTr8RY72dIapzMqFQA?label=slgeekshow%20show&style=social)](https://www.youtube.com/c/SLGeeKShows/videos)
  
