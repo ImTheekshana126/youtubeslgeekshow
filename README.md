@@ -34,8 +34,9 @@
  
 ## Repo Stats
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=youtubeslgeekshow&repo=Video-call-bot&theme=dark)
-
- 
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=youtubeslgeekshow&repo=call-music-plus-bot&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=youtubeslgeekshow&repo=covid-update-bot&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=youtubeslgeekshow&repo=Inline-media-search-Bot&theme=dark)
  
 # MY SOCIAL MEDIA STATICS 👋 
 
