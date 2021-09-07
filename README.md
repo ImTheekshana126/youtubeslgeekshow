@@ -39,9 +39,6 @@
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=youtubeslgeekshow&repo=Inline-media-search-Bot&theme=dark)
  
 # MY SOCIAL MEDIA STATICS 👋 
-
-- [GitHub followers](https://img.shields.io/github/followers/youtubeslgeekshow.svg?style=social&label=Follow&maxAge=2592000)
-
  
 - [![Code Palace](https://img.shields.io/youtube/channel/subscribers/UCvYfJcTr8RY72dIapzMqFQA?label=slgeekshow%20show&style=social)](https://www.youtube.com/c/SLGeeKShows/videos)
  
@@ -89,3 +86,4 @@
  
  
 
+ 
